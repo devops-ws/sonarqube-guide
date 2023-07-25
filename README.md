@@ -10,3 +10,4 @@
 
 ## 推荐插件
 * [OpenID Connect (OIDC)](https://github.com/vaulttec/sonar-auth-oidc)
+* [Sonarqube Community Branch Plugin](https://github.com/mc1arke/sonarqube-community-branch-plugin)
